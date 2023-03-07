@@ -1,1 +1,6 @@
 Hola a todoooos!!
+<<<<<<< HEAD
+=======
+Hola que tal
+Rut 
+>>>>>>> 82b2e310a52bce0959027a0b8980efff05f9ebe0
