@@ -3,10 +3,7 @@ Hola a todoooos!!
 =======
 Hola que tal
 Rut 
-<<<<<<< HEAD
 joaquin
-=======
 Jose
 Enrique
 Daniel Couña neno XD
->>>>>>> 32d7a36c9e15d36e5a9e1e1e06fee2409110e193
