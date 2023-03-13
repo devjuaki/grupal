@@ -1,6 +1,4 @@
 Hola a todoooos!!
-<<<<<<< HEAD
-=======
 Hola que tal
 Rut 
 joaquin
